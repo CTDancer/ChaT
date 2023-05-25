@@ -1,0 +1,7 @@
+GET http://127.0.0.1:8000/api/floors
+Content-Type: application/json
+
+{
+    "index": 0,
+    "hole_id"
+}
